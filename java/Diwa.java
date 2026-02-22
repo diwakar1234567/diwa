@@ -1,0 +1,13 @@
+class Diwa
+{
+    public static void main(String[] args) {
+        System.out.println(12);
+        System.out.println(1.2);
+        System.out.println(true);
+        System.out.println(false);
+        System.out.println('a');
+
+        System.err.println("hello");
+          
+    }
+}
